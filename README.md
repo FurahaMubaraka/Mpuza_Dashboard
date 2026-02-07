@@ -25,7 +25,7 @@ The main objectives of this project are:
 The dashboard UI was designed using Figma before development.
 
 🔗 **Figma Link:**  
-[View Dashboard Design on Figma]https://www.figma.com/design/RoWUPyi5IUY0cAaKx8zqm9/Portfolio?node-id=15-2&t=Onbih5dy5cyukLkZ-0
+https://www.figma.com/design/RoWUPyi5IUY0cAaKx8zqm9/Portfolio?node-id=15-2&t=Onbih5dy5cyukLkZ-0
 
 ---
 
